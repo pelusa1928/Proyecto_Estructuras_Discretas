@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    background-color: #3E8E41;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.integrantes {
+    font-size: 1.6em; /* Ajusta el tamaño según sea necesario */
+    text-align: center;
+    color: #555;
+}
+
+.biblioteca {
+    text-align: center;
+    margin: 20px;
+}
+
+.biblioteca p {
+    font-size: 0.9em;
+    color: #333;
+}
+
+.biblioteca img {
+    max-width: 150px;
+    display: block;
+    margin: 10px auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+a {
+    text-decoration: none;
+    color: #4CAF50;
+}
+
+a:hover {
+    text-decoration: underline;
+}
